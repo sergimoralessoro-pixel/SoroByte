@@ -162,3 +162,13 @@ footer .brand-text{font-size:25px!important}
   .nav nav{margin-right:16px!important}
   .nav .btn-small{margin-left:6px!important}
 }
+
+/* Header spacing v14 — clear separation before CTA */
+@media (min-width:901px){
+  .nav nav{
+    margin-right:0!important;
+  }
+  .nav .btn-small{
+    margin-left:54px!important;
+  }
+}
