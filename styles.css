@@ -93,3 +93,30 @@ footer .brand-logo-real{
   .brand-logo-real{width:155px!important;height:50px!important;max-width:155px!important;max-height:50px!important}
   footer .brand-logo-real{width:150px!important;height:48px!important;max-width:150px!important;max-height:48px!important}
 }
+
+/* Text-only SoroByte brand v11 */
+.brand-logo-real{display:none!important}
+.brand-logo-wrap{
+  display:flex!important;
+  align-items:center!important;
+  min-width:auto!important;
+  height:auto!important;
+  text-decoration:none!important;
+}
+.brand-text{
+  display:inline-flex!important;
+  align-items:baseline!important;
+  font-family:Inter,Arial,Helvetica,sans-serif!important;
+  font-size:27px!important;
+  font-weight:850!important;
+  letter-spacing:-1.2px!important;
+  line-height:1!important;
+  white-space:nowrap!important;
+}
+.brand-soro{color:#ffffff!important}
+.brand-byte{color:var(--green,#35f27f)!important}
+footer .brand-text{font-size:25px!important}
+@media(max-width:760px){
+  .brand-text{font-size:23px!important}
+  footer .brand-text{font-size:22px!important}
+}
