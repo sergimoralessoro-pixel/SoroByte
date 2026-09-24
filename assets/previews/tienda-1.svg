@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
-  <rect width="1200" height="720" rx="34" fill="#f7f4ef"/>
-  <rect x="28" y="28" width="1144" height="54" rx="16" fill="#ffffff" opacity=".96"/>
-  <circle cx="58" cy="55" r="7" fill="#b78862"/><circle cx="82" cy="55" r="7" fill="#6b756e"/><circle cx="106" cy="55" r="7" fill="#6b756e"/>
-  <text x="600" y="62" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#666">NØRVA Store</text>
-    <rect x="60" y="120" width="1080" height="540" rx="28" fill="#ffffff"/>
-    <text x="105" y="198" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#b78862">TIENDA ONLINE</text>
-    <text x="105" y="285" font-family="Arial,sans-serif" font-size="56" font-weight="800" fill="#161616">Una portada que</text>
-    <text x="105" y="350" font-family="Arial,sans-serif" font-size="56" font-weight="800" fill="#b78862">vende tu idea.</text>
-    <rect x="105" y="405" width="175" height="50" rx="13" fill="#b78862"/><text x="192" y="436" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#08100b">Ver más</text>
-    <rect x="720" y="160" width="340" height="380" rx="28" fill="#e8ece8"/>
-    <rect x="755" y="200" width="270" height="150" rx="20" fill="#b78862" opacity=".25"/>
-    <rect x="755" y="375" width="210" height="18" rx="9" fill="#acb5ad"/>
-    <rect x="755" y="408" width="245" height="18" rx="9" fill="#d0d5d1"/>
-    <rect x="755" y="441" width="185" height="18" rx="9" fill="#d0d5d1"/>
-    </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720"><rect width="1200" height="720" fill="#f8f5f0"/><text x="70" y="95" font-family="Arial" font-size="30" font-weight="800">NØRVA STORE</text><text x="830" y="95" font-family="Arial" font-size="16">Novedades · Hombre · Mujer · Carrito</text><text x="70" y="175" font-family="Arial" font-size="48" font-weight="800">Nueva colección</text><g><rect x="70" y="220" width="320" height="390" rx="20" fill="#fff"/><rect x="440" y="220" width="320" height="390" rx="20" fill="#fff"/><rect x="810" y="220" width="320" height="390" rx="20" fill="#fff"/><rect x="90" y="240" width="280" height="250" rx="15" fill="#d9d2c7"/><rect x="460" y="240" width="280" height="250" rx="15" fill="#c8c0b5"/><rect x="830" y="240" width="280" height="250" rx="15" fill="#b8b0a5"/><text x="95" y="535" font-family="Arial" font-size="20" font-weight="700">Essential Tee · 29,90 €</text><text x="465" y="535" font-family="Arial" font-size="20" font-weight="700">Studio Hoodie · 59,90 €</text><text x="835" y="535" font-family="Arial" font-size="20" font-weight="700">Core Cap · 24,90 €</text></g></svg>

@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
-  <rect width="1200" height="720" rx="34" fill="#0d0814"/>
-  <rect x="28" y="28" width="1144" height="54" rx="16" fill="#121816" opacity=".96"/>
-  <circle cx="58" cy="55" r="7" fill="#b56cff"/><circle cx="82" cy="55" r="7" fill="#6b756e"/><circle cx="106" cy="55" r="7" fill="#6b756e"/>
-  <text x="600" y="62" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#9da9a2">Collect Hub</text>
-    <rect x="60" y="120" width="1080" height="540" rx="28" fill="#0d1311"/>
-    <text x="105" y="198" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#b56cff">PROYECTO ESPECIAL</text>
-    <text x="105" y="285" font-family="Arial,sans-serif" font-size="56" font-weight="800" fill="#ffffff">Una portada que</text>
-    <text x="105" y="350" font-family="Arial,sans-serif" font-size="56" font-weight="800" fill="#b56cff">vende tu idea.</text>
-    <rect x="105" y="405" width="175" height="50" rx="13" fill="#b56cff"/><text x="192" y="436" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#08100b">Ver más</text>
-    <rect x="720" y="160" width="340" height="380" rx="28" fill="#18231d"/>
-    <rect x="755" y="200" width="270" height="150" rx="20" fill="#b56cff" opacity=".25"/>
-    <rect x="755" y="375" width="210" height="18" rx="9" fill="#45534a"/>
-    <rect x="755" y="408" width="245" height="18" rx="9" fill="#2c3831"/>
-    <rect x="755" y="441" width="185" height="18" rx="9" fill="#2c3831"/>
-    </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720"><rect width="1200" height="720" fill="#0d0814"/><rect x="0" y="0" width="220" height="720" fill="#15101e"/><text x="35" y="75" font-family="Arial" font-size="28" font-weight="800" fill="#b56cff">COLLECT HUB</text><text x="35" y="145" font-family="Arial" font-size="16" fill="#fff">Comunidad</text><text x="35" y="190" font-family="Arial" font-size="16" fill="#aaa">Mercado</text><text x="35" y="235" font-family="Arial" font-size="16" fill="#aaa">Subastas</text><text x="35" y="280" font-family="Arial" font-size="16" fill="#aaa">Rifas</text><text x="280" y="85" font-family="Arial" font-size="38" font-weight="800" fill="#fff">Comunidad</text><rect x="280" y="130" width="610" height="150" rx="20" fill="#181123"/><text x="315" y="180" font-family="Arial" font-size="18" font-weight="700" fill="#fff">@alexcollector</text><text x="315" y="225" font-family="Arial" font-size="18" fill="#c8bdd2">¿Qué os parece esta nueva adquisición?</text><rect x="930" y="130" width="220" height="430" rx="20" fill="#181123"/><text x="965" y="190" font-family="Arial" font-size="18" font-weight="700" fill="#fff">En directo</text><text x="965" y="245" font-family="Arial" font-size="16" fill="#9ef6bc">● 128 online</text></svg>
