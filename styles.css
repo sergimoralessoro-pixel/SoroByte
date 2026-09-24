@@ -207,3 +207,17 @@ footer .brand-text{font-size:25px!important}
   font-size:12px;
   line-height:1.55;
 }
+
+/* Plan examples + demo buttons v18 */
+.plan-example{
+  margin:18px 0 20px;
+  padding:12px 13px;
+  border-radius:12px;
+  border:1px solid rgba(53,242,127,.16);
+  background:rgba(53,242,127,.045);
+  color:#aebbb2;
+  font-size:12px;
+  line-height:1.55;
+}
+.plan-example strong{color:#fff}
+.plan-demo{text-decoration:none;text-align:center}
