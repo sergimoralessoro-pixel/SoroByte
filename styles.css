@@ -120,3 +120,33 @@ footer .brand-text{font-size:25px!important}
   .brand-text{font-size:23px!important}
   footer .brand-text{font-size:22px!important}
 }
+
+/* SOROBYTE TEXT BRAND — definitive */
+.brand-text-link{
+  display:inline-flex!important;
+  align-items:center!important;
+  text-decoration:none!important;
+  min-width:0!important;
+  height:auto!important;
+  background:none!important;
+  border:0!important;
+}
+.brand-text{
+  display:inline-flex!important;
+  align-items:baseline!important;
+  font-family:"Space Grotesk",Inter,Arial,Helvetica,sans-serif!important;
+  font-size:28px!important;
+  font-weight:800!important;
+  letter-spacing:-1.25px!important;
+  line-height:1!important;
+  white-space:nowrap!important;
+}
+.brand-soro{color:#fff!important}
+.brand-byte{color:var(--green,#35f27f)!important}
+.nav .brand-text-link{margin-right:auto!important}
+footer .brand-text{font-size:25px!important}
+.brand-logo-real,.brand-logo-wrap img{display:none!important}
+@media(max-width:760px){
+  .brand-text{font-size:23px!important}
+  footer .brand-text{font-size:22px!important}
+}
