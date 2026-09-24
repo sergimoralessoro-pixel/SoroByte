@@ -150,3 +150,15 @@ footer .brand-text{font-size:25px!important}
   .brand-text{font-size:23px!important}
   footer .brand-text{font-size:22px!important}
 }
+
+/* Header spacing adjustment v13 */
+.nav nav{
+  margin-right:26px!important;
+}
+.nav .btn-small{
+  margin-left:10px!important;
+}
+@media(max-width:900px){
+  .nav nav{margin-right:16px!important}
+  .nav .btn-small{margin-left:6px!important}
+}
