@@ -16,3 +16,5 @@
 .gallery-dots{display:flex;justify-content:center;gap:7px;margin-top:8px}
 .gallery-dots i{width:7px;height:7px;border-radius:50%;background:#3c4941}.gallery-dots i.active{background:var(--green)}
 @media(max-width:760px){.brand-logo-real{width:155px;height:52px}.gallery-slide{flex-basis:94%}}
+
+.brand-logo-real{width:178px!important;height:56px!important;object-fit:cover!important;object-position:center!important;border-radius:10px}
