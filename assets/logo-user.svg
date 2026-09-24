@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250">
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#00e95f"/><stop offset=".55" stop-color="#16ef6c"/><stop offset="1" stop-color="#effff4"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="760" height="250" fill="#030806"/>
+<g transform="translate(25 12)">
+ <path d="M55 32h145c20 0 30 8 30 24v38l-36-23H87c-14 0-22-8-22-20s8-19 22-19Z" fill="none" stroke="url(#g)" stroke-width="20" stroke-linejoin="round"/>
+ <circle cx="89" cy="50" r="6" fill="#1ef46f"/><circle cx="111" cy="50" r="6" fill="#1ef46f"/><circle cx="133" cy="50" r="6" fill="#1ef46f"/>
+ <path d="M198 95 82 95c-23 0-34 13-34 31s12 31 34 31h110c14 0 22 8 22 20s-8 20-22 20H62" fill="none" stroke="url(#g)" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M112 121 96 137l16 16M150 121l16 16-16 16M140 117l-18 40" fill="none" stroke="#19f36d" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+ <rect x="218" y="157" width="15" height="15" fill="#18f46d"/><rect x="243" y="143" width="17" height="17" fill="#18f46d"/><rect x="270" y="125" width="20" height="20" fill="#18f46d"/>
+</g>
+<text x="320" y="150" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" fill="#f7f7f7">Soro<tspan fill="#17ef69">Byte</tspan></text>
+</svg>
