@@ -18,3 +18,6 @@
 @media(max-width:760px){.brand-logo-real{width:155px;height:52px}.gallery-slide{flex-basis:94%}}
 
 .brand-logo-real{width:178px!important;height:56px!important;object-fit:cover!important;object-position:center!important;border-radius:10px}
+
+.plan-clarity{margin:34px auto 0;max-width:980px;padding:22px 24px;border:1px solid rgba(53,242,127,.28);border-radius:18px;background:linear-gradient(135deg,rgba(53,242,127,.07),rgba(255,255,255,.015));color:#c7d2cb;line-height:1.7;font-size:13px}
+.plan-clarity strong{color:#fff}.plan-clarity span{color:var(--green);font-weight:800}
