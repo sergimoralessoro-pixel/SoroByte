@@ -14,8 +14,7 @@
   <div class="cursor-glow"></div>
   <header class="nav">
     <a class="brand" href="#inicio" aria-label="SoroByte">
-      <span class="brand-mark">&lt;S/&gt;</span>
-      <span>Soro<span>Byte</span></span>
+      <img class="brand-logo" src="assets/logo.svg" alt="SoroByte">
     </a>
     <nav>
       <a href="#servicios">Webs</a>
@@ -47,7 +46,7 @@
           <div class="screen-copy">
             <small>DE LA IDEA A INTERNET</small>
             <h3>Webs hechas para tu negocio.<br><em>No al revés.</em></h3>
-            <div class="fake-btn"></div>
+            <a class="screen-demo-btn" href="#servicios">Ver ejemplos reales</a>
           </div>
           <div class="code-card">
             <span>01</span> analizar tu marca<br>
@@ -79,7 +78,7 @@
             <li>Contacto, ubicación y redes</li>
             <li>Adaptada a móvil</li>
           </ul>
-          <button class="btn btn-wide open-detail" data-plan="esencial">Descubrir esta web</button>
+          <div class="plan-actions"><button class="btn btn-wide open-detail" data-plan="esencial">Descubrir esta web</button><button class="btn btn-ghost btn-wide contact-plan" data-plan="esencial">Quiero este plan</button></div>
         </article>
 
         <article class="plan featured">
@@ -95,7 +94,7 @@
             <li>Galerías y formularios</li>
             <li>Estructura comercial completa</li>
           </ul>
-          <button class="btn btn-wide open-detail" data-plan="profesional">Descubrir esta web</button>
+          <div class="plan-actions"><button class="btn btn-wide open-detail" data-plan="profesional">Descubrir esta web</button><button class="btn btn-ghost btn-wide contact-plan" data-plan="profesional">Quiero este plan</button></div>
         </article>
 
         <article class="plan">
@@ -110,7 +109,7 @@
             <li>Gestión de pedidos</li>
             <li>Diseño pensado para conversión</li>
           </ul>
-          <button class="btn btn-wide open-detail" data-plan="tienda">Descubrir esta web</button>
+          <div class="plan-actions"><button class="btn btn-wide open-detail" data-plan="tienda">Descubrir esta web</button><button class="btn btn-ghost btn-wide contact-plan" data-plan="tienda">Quiero este plan</button></div>
         </article>
 
         <article class="plan">
@@ -125,7 +124,7 @@
             <li>Automatizaciones</li>
             <li>Funciones personalizadas</li>
           </ul>
-          <button class="btn btn-wide open-detail" data-plan="avanzada">Descubrir esta web</button>
+          <div class="plan-actions"><button class="btn btn-wide open-detail" data-plan="avanzada">Descubrir esta web</button><button class="btn btn-ghost btn-wide contact-plan" data-plan="avanzada">Quiero este plan</button></div>
         </article>
 
         <article class="plan special">
@@ -140,7 +139,7 @@
             <li>Subastas, rifas y marketplaces</li>
             <li>Juegos sencillos y lógica avanzada</li>
           </ul>
-          <button class="btn btn-wide open-detail" data-plan="especial">Ver qué podemos crear</button>
+          <div class="plan-actions"><button class="btn btn-wide open-detail" data-plan="especial">Ver qué podemos crear</button><button class="btn btn-ghost btn-wide contact-plan" data-plan="especial">Quiero hablar de mi idea</button></div>
         </article>
       </div>
 
@@ -245,7 +244,7 @@
   </main>
 
   <footer>
-    <a class="brand" href="#inicio"><span class="brand-mark">&lt;S/&gt;</span><span>Soro<span>Byte</span></span></a>
+    <a class="brand" href="#inicio"><img class="brand-logo" src="assets/logo.svg" alt="SoroByte"></a>
     <p>Diseño web a medida · Desarrollo · Contenido digital</p>
     <span>© 2026 SoroByte</span>
   </footer>
@@ -258,6 +257,7 @@
     </div>
   </div>
 
+  <div class="toast" id="toast"></div>
   <script src="script.js"></script>
 </body>
 </html>
