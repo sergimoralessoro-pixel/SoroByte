@@ -39,3 +39,24 @@ footer .brand-logo-real{width:175px!important;height:60px!important;max-height:6
   .brand-logo-real{width:150px!important;height:52px!important;max-height:52px!important}
   footer .brand-logo-real{width:145px!important;height:50px!important;max-height:50px!important}
 }
+
+/* Header logo v9 */
+.brand-logo-wrap{display:flex;align-items:center;min-width:220px}
+.brand-logo-real{
+  width:220px!important;
+  height:52px!important;
+  max-height:52px!important;
+  object-fit:contain!important;
+  object-position:left center!important;
+  border:0!important;
+  border-radius:0!important;
+  background:transparent!important;
+  box-shadow:none!important;
+}
+.nav{overflow:visible}
+footer .brand-logo-real{width:205px!important;height:50px!important;max-height:50px!important}
+@media(max-width:760px){
+ .brand-logo-wrap{min-width:160px}
+ .brand-logo-real{width:160px!important;height:44px!important;max-height:44px!important}
+ footer .brand-logo-real{width:155px!important;height:44px!important;max-height:44px!important}
+}
