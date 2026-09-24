@@ -60,3 +60,36 @@ footer .brand-logo-real{width:205px!important;height:50px!important;max-height:5
  .brand-logo-real{width:160px!important;height:44px!important;max-height:44px!important}
  footer .brand-logo-real{width:155px!important;height:44px!important;max-height:44px!important}
 }
+
+/* Final navbar logo v10 */
+.brand-logo-wrap{
+  display:flex!important;
+  align-items:center!important;
+  min-width:220px!important;
+  height:64px!important;
+}
+.brand-logo-real{
+  width:220px!important;
+  height:64px!important;
+  max-width:220px!important;
+  max-height:64px!important;
+  display:block!important;
+  object-fit:contain!important;
+  object-position:left center!important;
+  border:0!important;
+  border-radius:0!important;
+  background:transparent!important;
+  box-shadow:none!important;
+}
+.nav .brand-logo-real{filter:none!important;opacity:1!important}
+footer .brand-logo-real{
+  width:200px!important;
+  height:58px!important;
+  max-width:200px!important;
+  max-height:58px!important;
+}
+@media(max-width:760px){
+  .brand-logo-wrap{min-width:155px!important;height:50px!important}
+  .brand-logo-real{width:155px!important;height:50px!important;max-width:155px!important;max-height:50px!important}
+  footer .brand-logo-real{width:150px!important;height:48px!important;max-width:150px!important;max-height:48px!important}
+}
